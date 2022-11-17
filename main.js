@@ -1,3 +1,6 @@
+console.log(compareArrays([], [1, 2, 3]))
+console.log(compareArrays([3,3,3,3,3,3,3], [1, 2, 3]))
+console.log(compareArrays([1, 2, 3], [1, 2, 3]))
 console.log(compareArrays([2, 2, 2], [2, 2, 2]))
 console.log(compareArrays([1], [1, 2, 3]))
 console.log(compareArrays([1, 2, 3], [1]))
